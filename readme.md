@@ -1,6 +1,6 @@
 About me!
 
-Hi! I'm a #Data #Analyst with a #B.Tech in Computer Science and Engineering, graduated in June #2024.
+Hi! I'm a Data Analyst with a #B.Tech in Computer Science and Engineering, graduated in June 2024.
 
 My skill set includes Advanced Excel, SQL, and Python and its libraries.
 
